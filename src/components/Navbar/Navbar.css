@@ -1,0 +1,16 @@
+.navbar {
+    width: 100%;
+    font-size: 2rem;
+    color: black;
+    margin-bottom: 10px;
+    position: fixed;
+    background-color: aliceblue
+}
+
+.title {
+    float: left;
+}
+
+.scores {
+    float: right;
+}
